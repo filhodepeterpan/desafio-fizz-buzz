@@ -1,0 +1,14 @@
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\bin\Debug\net8.0\desafio-fizz-buzz.exe
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\bin\Debug\net8.0\desafio-fizz-buzz.deps.json
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\bin\Debug\net8.0\desafio-fizz-buzz.runtimeconfig.json
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\bin\Debug\net8.0\desafio-fizz-buzz.dll
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\bin\Debug\net8.0\desafio-fizz-buzz.pdb
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.AssemblyInfo.cs
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.dll
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\refint\desafio-fizz-buzz.dll
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.pdb
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\desafio-fizz-buzz.genruntimeconfig.cache
+C:\Users\dougl\Documents\ETEC\desafio-fizz-buzz\obj\Debug\net8.0\ref\desafio-fizz-buzz.dll
